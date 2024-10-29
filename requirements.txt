@@ -1,0 +1,11 @@
+streamlit
+
+yfinance
+
+matplotlib
+
+pandas
+
+seaborn
+
+
